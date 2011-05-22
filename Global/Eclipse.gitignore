@@ -1,5 +1,6 @@
 *.pydevproject
-.project
+# Want to checkin project settings
+# .project
 .metadata
 bin/**
 tmp/**
@@ -9,7 +10,7 @@ tmp/**/*
 *.swp
 *~.nib
 local.properties
-.classpath
+# .classpath
 .settings/
 .loadpath
 
